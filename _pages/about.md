@@ -14,6 +14,9 @@ Before joining Oxford, I obained my Bachelor's degree on Material Physics in 201
 Updates
 ======
 2023/07: Our paper entitled "[Predicting Battery Lifetime Under Varying Usage Conditions from Early Aging Data](https://arxiv.org/pdf/2307.08382.pdf)" has been available online.
+
 2023/05: Our paper entitled "[Fast Remaining Capacity Estimation for Lithium-ion Batteries Based on Short-time Pulse Test and Gaussian Process Regression](https://onlinelibrary.wiley.com/doi/full/10.1002/eem2.12386)" has been accepted by *Energy & Environmental Materials*
+
 2023/03: Our paper entitled[Bayesian hierarchical modelling for battery lifetime early prediction](https://arxiv.org/pdf/2211.05697.pdf) has been accepted by [*IFAC World Congress 2023*](https://www.ifac2023.org/). 
+
 2022/11: Our paper entitled[Bayesian hierarchical modelling for battery lifetime early prediction](https://arxiv.org/pdf/2211.05697.pdf) has been available online.
